@@ -1,2 +1,2 @@
 # EarnHoney-Bot
-A Bot to Earn Honey
+##### A Bot that silently plays videos, Refreshing itself periodically (to prevent the WebBrowser from dying).
