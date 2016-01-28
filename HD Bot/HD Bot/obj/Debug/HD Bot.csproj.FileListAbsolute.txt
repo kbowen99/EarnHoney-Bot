@@ -1,0 +1,9 @@
+C:\Users\Kurtis\git\EarnHoney-Bot\HD Bot\HD Bot\bin\Debug\HD Bot.exe.config
+C:\Users\Kurtis\git\EarnHoney-Bot\HD Bot\HD Bot\obj\Debug\HD Bot.csprojResolveAssemblyReference.cache
+C:\Users\Kurtis\git\EarnHoney-Bot\HD Bot\HD Bot\obj\Debug\HD_Bot.Frm_Honey.resources
+C:\Users\Kurtis\git\EarnHoney-Bot\HD Bot\HD Bot\obj\Debug\HD_Bot.Properties.Resources.resources
+C:\Users\Kurtis\git\EarnHoney-Bot\HD Bot\HD Bot\obj\Debug\HD Bot.csproj.GenerateResource.Cache
+C:\Users\Kurtis\git\EarnHoney-Bot\HD Bot\HD Bot\bin\Debug\HD Bot.exe
+C:\Users\Kurtis\git\EarnHoney-Bot\HD Bot\HD Bot\bin\Debug\HD Bot.pdb
+C:\Users\Kurtis\git\EarnHoney-Bot\HD Bot\HD Bot\obj\Debug\HD Bot.exe
+C:\Users\Kurtis\git\EarnHoney-Bot\HD Bot\HD Bot\obj\Debug\HD Bot.pdb
